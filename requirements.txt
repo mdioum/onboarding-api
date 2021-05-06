@@ -31,5 +31,5 @@ six==1.12.0
 urllib3==1.25.3
 websocket-client==0.56.0
 Werkzeug==0.15.6
-flask-cors==3.0.8
+flask-cors==3.0.9
 pyxdg==0.26
